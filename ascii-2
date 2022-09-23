@@ -1,0 +1,3 @@
+#to return a number
+n=int(input("Enter a number:"))
+print(chr(n))
