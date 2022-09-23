@@ -1,0 +1,2 @@
+#hello world with new line
+print("Hello World\nHello World")
