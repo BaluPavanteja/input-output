@@ -1,0 +1,3 @@
+#to return a char
+c=(input("Enter a char:"))
+print(c)
