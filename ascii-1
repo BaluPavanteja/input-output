@@ -1,0 +1,3 @@
+#to return a ascii value
+a=input("Enter a character:")
+print(ord(a))
